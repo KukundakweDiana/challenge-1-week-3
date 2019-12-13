@@ -15,6 +15,7 @@ function sort(array) {
     }
   }
   // console.log(object);
+  return object;
 }
 
 sort(array1);
