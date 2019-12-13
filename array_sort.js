@@ -14,7 +14,8 @@ function sort(array) {
       object.charaz.push(array[i]);
     }
   }
-  console.log(object);
+  // console.log(object);
 }
 
 sort(array1);
+module.exports = sort;
